@@ -1,3 +1,11 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![GitHub contributors](https://img.shields.io/github/contributors/oets-man/oets-man)](https://github.com/oets-man/oets-man/graphs/contributors) 
+[![GitHub issues](https://img.shields.io/github/issues/oets-man/oets-man)](https://github.com/oets-man/oets-man/issues) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/oets-man/oets-man/pulls) 
+[![HitCount](https://views.whatilearened.today/views/github/oets-man/oets-man.svg)](https://github.com/oets-man/oets-man) 
+[![website oets-man.github.io](https://img.shields.io/website-up-down-green-red/http/oets-man.github.io/oets-man.svg)](https://oets-man.github.io/oets-man/)
+
+
 ## Hi there 👋
 
 <!--
