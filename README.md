@@ -6,7 +6,7 @@
 [![website oets-man.github.io](https://img.shields.io/website-up-down-green-red/http/oets-man.github.io/oets-man.svg)](https://oets-man.github.io/oets-man/)
 
 
-### Halo semua... 👋
+### Salam... 👋
 Saya <strong>Usman Husnan</strong>  
 Saya seorang freelance programmer  
 Owner <a href="https://github.com/idsantri">ID Santri</a>  
