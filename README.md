@@ -7,8 +7,9 @@
 
 
 ### Halo semua... 👋
-Saya Usman Husnan
-Saya seorang freelance programmer
+Saya <strong>Usman Husnan</strong>  
+Saya seorang freelance programmer  
+Owner <a href="https://github.com/idsantri">ID Santri</a>  
 
 ### Tech Stack
 <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" /></a>
@@ -18,10 +19,20 @@ Saya seorang freelance programmer
   <br>
   <br>
   
-### Github Statistic
+### Github Statistic (<a href="https://github.com/oets-man">Me</a>)
 <p align="left">
 <a href="https://github.com/oets-man">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oets-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oets-man&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<br/>
+
+### Github Statistic (<a href="https://github.com/idsantri">ID Santri</a>)
+<p align="left">
+<a href="https://github.com/idsantri">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=idsantri&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idsantri&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br/>
