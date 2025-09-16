@@ -6,19 +6,22 @@
 [![website oets-man.github.io](https://img.shields.io/website-up-down-green-red/http/oets-man.github.io/oets-man.svg)](https://oets-man.github.io/oets-man/)
 
 
-## Hi there 👋
+### Halo semua... 👋
+Saya Usman Husnan
+Saya seorang freelance programmer
 
-<!--
-**oets-man/oets-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+<a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" /></a>
+<a href="https://www.javascript.com/"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" /></a>
+<a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></a>
+<a href="https://www.mysql.com/"/><img align="left" alt="MySQL/MariaDB" title="MySQL/MariaDB" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/oets-man">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oets-man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oets-man&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
