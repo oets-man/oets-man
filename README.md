@@ -9,7 +9,7 @@
 ### Salam... 👋
 Saya <strong>Usman Husnan</strong>  
 - freelance programmer  
-- Owner <a href="https://github.com/idsantri">ID Santri</a>  
+- owner <a href="https://github.com/idsantri">ID Santri</a>  
 
 ### Tech Stack
 <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" /></a>
